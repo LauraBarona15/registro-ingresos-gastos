@@ -1,0 +1,4 @@
+"homepage": "https://lalabarona45.github.io/registro-ingresos-gastos./",
+"scripts": {
+  "deploy": "vue-cli-service build && gh-pages -d dist"
+}
